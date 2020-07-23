@@ -1,0 +1,66 @@
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\ApplicationInsights.config
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\csc.exe
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\System.Collections.Immutable.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\System.Reflection.Metadata.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\vbc.exe
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\VBCSCompiler.exe
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\VBCSCompiler.exe.config
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\3 SqlDataAdepter.dll.config
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\3 SqlDataAdepter.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\3 SqlDataAdepter.pdb
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.Agent.Intercept.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.DependencyCollector.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.Web.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.WindowsServer.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.ApplicationInsights.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.DependencyCollector.xml
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.Web.xml
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.WindowsServer.xml
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.ApplicationInsights.xml
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\obj\Debug\3 SqlDataAdepter.csprojResolveAssemblyReference.cache
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\obj\Debug\3 SqlDataAdepter.dll
+D:\scoopen\ADO.NET\ADO.Net\3 SqlDataAdepter\obj\Debug\3 SqlDataAdepter.pdb
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\ApplicationInsights.config
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\csc.exe
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\System.Collections.Immutable.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\System.Reflection.Metadata.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\vbc.exe
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\VBCSCompiler.exe
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\roslyn\VBCSCompiler.exe.config
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\3 SqlDataAdepter.dll.config
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\3 SqlDataAdepter.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\3 SqlDataAdepter.pdb
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.Agent.Intercept.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.DependencyCollector.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.Web.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.WindowsServer.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.ApplicationInsights.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.DependencyCollector.xml
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.Web.xml
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.AI.WindowsServer.xml
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.ApplicationInsights.xml
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\obj\Debug\3 SqlDataAdepter.csprojResolveAssemblyReference.cache
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\obj\Debug\3 SqlDataAdepter.dll
+E:\scoopen\9.ADO.NET\ADO.Net\3 SqlDataAdepter\obj\Debug\3 SqlDataAdepter.pdb
